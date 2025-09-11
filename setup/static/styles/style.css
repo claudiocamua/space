@@ -33,7 +33,7 @@ body {
     line-height: 1;
     font-family: 'Space Grotesk', sans-serif;
     min-height: 100vh;
-    background: linear-gradient(#041833,#04244F,#154580);
+    background: linear-gradient(#5b89c5,#04244F,#154580);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -408,7 +408,7 @@ table {
 }
 
 .alert-success {
-    --bs-alert-color: #0f5132;
+    --bs-alert-color: #f0f5f2;
     --bs-alert-bg: #d1e7dd;
     --bs-alert-border-color: #badbcc;
 }
